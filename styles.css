@@ -1,0 +1,23 @@
+* {
+    border-style: solid;
+    border-color: red;
+}
+
+.body {
+    min-height: 100vh;
+   
+}
+
+.content {
+    background-color: grey;
+     width: 55%;
+     float: left;
+}
+
+.raclamebar {
+    background-color: darkgray;
+    width: 40%;
+    height: auto;
+    float: right;
+   
+}
