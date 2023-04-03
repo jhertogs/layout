@@ -3,26 +3,11 @@
     border-color: red;
 }
 
-.body {
-    
-   
+
+
+.container {
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-template-rows: auto auto auto;
 }
 
-.content {
-    background-color: grey;
-     width: 55%;
-     float: left;
-}
-
-.raclamebar {
-    background-color: darkgray;
-    width: 40%;
-    height: auto;
-    float: right;
-   
-}
-
-.footer {
-    background-color: darkgray;
-    height: auto;
-}
