@@ -13,6 +13,7 @@ body {
     display: flex;
     justify-content: center;
     background-color: grey;
+    height: 35px;
 }
 .a {
     padding-right: 20px;
@@ -23,7 +24,7 @@ body {
     grid-template-rows: auto auto auto;
     margin-bottom: auto;
     
-    background-color: grey;
+   
     
     
 }
@@ -52,5 +53,9 @@ footer {
 }
 
 .p {
+    padding: 5px;
+}
+
+.rclm {
     padding: 5px;
 }
