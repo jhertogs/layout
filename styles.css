@@ -1,12 +1,18 @@
-* {
+/*  * {
     border-style: solid;
     border-color: red;
-}
+    }
+*/
 
+body {
+    background-color: rgb(55, 55, 55);
+    color: white;
+}
 
 .navbar {
     display: flex;
     justify-content: center;
+    background-color: grey;
 }
 .a {
     padding-right: 20px;
@@ -16,14 +22,35 @@
     grid-template-columns: auto auto;
     grid-template-rows: auto auto auto;
     margin-bottom: auto;
-    height: 100vh;
+    
+    background-color: grey;
+    
+    
 }
 
 .banner {
     text-align: center;
 }
 
+main {
+    background-color: rgb(69, 69, 69);
+}
 
 footer {
     float: bottom;
+    
+}
+.raclame {
+    background-color: rgb(106, 106, 106);
+}
+
+.img {
+    display: grid;
+    grid-template-columns: auto;
+    place-items: center;
+    grid-gap: 5px;
+}
+
+.p {
+    padding: 5px;
 }
