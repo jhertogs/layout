@@ -5,18 +5,31 @@
 */
 
 body {
-    background-color: rgb(55, 55, 55);
     color: white;
+    background-color: rgb(68, 68, 68);
 }
 
 .navbar {
-    display: flex;
-    justify-content: space-around;
     background-color: grey;
     height: 35px;
+    border-style: solid;
+    border-color: rgb(118, 89, 124);
+    border-width: 4px;
 }
-.a {
-    padding-right: 20px;
+
+ul {
+    list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+a {
+    display: block;
+    padding: 8px;
+    background-color: rgb(149, 149, 149);
+}
+
+li {
+    float: left;
 }
 .container {
     display: grid;
@@ -24,6 +37,7 @@ body {
     grid-template-rows: auto auto auto;
     margin-bottom: 20px;
     margin-top: 10px;
+    
     
    
     
@@ -34,21 +48,34 @@ body {
     text-align: center;
     background-color: rgb(106, 106, 106);
     height: 60px;
+    border-style: solid;
+    border-color: rgb(118, 89, 124);
+    border-width: 4px;
 }
 
 main {
     background-color: rgb(69, 69, 69);
+    border-style: solid;
+    border-color: rgb(118, 89, 124);
+    border-width: 4px;
 }
 
 footer {
     float: bottom;
     background-color: rgb(106, 106, 106);
     height: 50px;
+    border-style: solid;
+    border-color: rgb(118, 89, 124);
+    border-width: 4px;
     
 }
 .raclame {
     background-color: rgb(106, 106, 106);
     margin-left: 20px ;
+    padding-bottom: 10px;
+    border-style: solid;
+    border-color: rgb(118, 89, 124);
+    border-width: 4px;
 }
 
 .img {
