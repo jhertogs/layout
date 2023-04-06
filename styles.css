@@ -11,7 +11,7 @@ body {
 
 .navbar {
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     background-color: grey;
     height: 35px;
 }
@@ -22,7 +22,8 @@ body {
     display: grid;
     grid-template-columns: auto auto;
     grid-template-rows: auto auto auto;
-    margin-bottom: auto;
+    margin-bottom: 20px;
+    margin-top: 10px;
     
    
     
@@ -31,6 +32,8 @@ body {
 
 .banner {
     text-align: center;
+    background-color: rgb(106, 106, 106);
+    height: 60px;
 }
 
 main {
@@ -39,10 +42,13 @@ main {
 
 footer {
     float: bottom;
+    background-color: rgb(106, 106, 106);
+    height: 50px;
     
 }
 .raclame {
     background-color: rgb(106, 106, 106);
+    margin-left: 20px ;
 }
 
 .img {
