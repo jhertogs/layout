@@ -1,14 +1,15 @@
-/*  * {
+ * {
     border-style: solid;
     border-color: red;
     }
-*/
+
 
 
 .body {
     color: black;
-    background-image: url(back.jpg);
-    background-size: auto;
+    background-image: url(back2.jpg);
+    background-size: 1500px;
+    background-repeat: no-repeat;
 }
 
 .navbar {
@@ -16,7 +17,9 @@
     border-width: 4px;
    
 }
-
+.main {
+    padding-left: 50px;
+}
 .ul {
     list-style-type: none;
   margin: 0;
@@ -31,6 +34,7 @@ a {
 .logo {
     width: 200px;
     height: auto;
+    padding-left: 50px;
 }
 
 li {
@@ -77,8 +81,8 @@ footer {
     grid-gap: 5px;
 }
 
-.p {
-    padding: 5px;
+.textfield {
+    width: 650px;
 }
 
 .rclm {
