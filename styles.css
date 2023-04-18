@@ -54,8 +54,8 @@ li {
 }
 
 main {
-    background-color: rgb(69, 69, 69);
-    border-style: solid;
+    /* background-color: rgb(69, 69, 69);
+    border-style: solid; */
     border-color: rgb(118, 89, 124);
     border-width: 4px;
 }
