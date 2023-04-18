@@ -1,11 +1,14 @@
- * {
+/*  * {
     border-style: solid;
     border-color: red;
     }
+*/
 
 
-body {
-    color: white;
+.body {
+    color: black;
+    background-image: url(back.jpg);
+    background-size: auto;
 }
 
 .navbar {
@@ -14,10 +17,11 @@ body {
    
 }
 
-ul {
+.ul {
     list-style-type: none;
   margin: 0;
   padding: 0;
+  float: right;
 }
 a {
     display: block;
