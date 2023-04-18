@@ -6,15 +6,12 @@
 
 body {
     color: white;
-    background-color: rgb(68, 68, 68);
 }
 
 .navbar {
-    background-color: grey;
     height: 35px;
-    border-style: solid;
-    border-color: rgb(118, 89, 124);
     border-width: 4px;
+   
 }
 
 ul {
@@ -25,7 +22,6 @@ ul {
 a {
     display: block;
     padding: 8px;
-    background-color: rgb(149, 149, 149);
 }
 
 .logo {
@@ -51,36 +47,23 @@ li {
 
 .banner {
     text-align: center;
-    background-color: rgb(106, 106, 106);
     height: 60px;
-    border-style: solid;
-    border-color: rgb(118, 89, 124);
-    border-width: 4px;
+    
 }
 
 main {
-    /* background-color: rgb(69, 69, 69);
-    border-style: solid; */
-    border-color: rgb(118, 89, 124);
-    border-width: 4px;
+    
+    
 }
 
 footer {
     float: bottom;
-    background-color: rgb(106, 106, 106);
     height: 50px;
-    border-style: solid;
-    border-color: rgb(118, 89, 124);
-    border-width: 4px;
-    
 }
+
 .raclame {
-    background-color: rgb(106, 106, 106);
     margin-left: 20px ;
     padding-bottom: 10px;
-    border-style: solid;
-    border-color: rgb(118, 89, 124);
-    border-width: 4px;
 }
 
 .img {
