@@ -1,8 +1,8 @@
-/*  * {
+ * {
     border-style: solid;
     border-color: red;
     }
-*/
+
 
 body {
     color: white;
@@ -26,6 +26,11 @@ a {
     display: block;
     padding: 8px;
     background-color: rgb(149, 149, 149);
+}
+
+.logo {
+    width: 200px;
+    height: auto;
 }
 
 li {
