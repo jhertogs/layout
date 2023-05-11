@@ -1,8 +1,8 @@
- /* * {
+  * {
     border-style: solid;
     border-color: red;
     }
-*/
+
 
 .body {
     color: white;
@@ -89,4 +89,5 @@ footer {
 
 .rclm {
     padding: 5px;
+    text-align: center;
 }
