@@ -1,15 +1,17 @@
- * {
+ /* * {
     border-style: solid;
     border-color: red;
     }
-
-
+*/
 
 .body {
-    color: black;
-    background-image: url(back2.jpg);
+    color: white;
+    background-image: url(Untitled.png);
     background-size: 1500px;
+    background-color: white;
     background-repeat: no-repeat;
+    
+    
 }
 
 .navbar {
