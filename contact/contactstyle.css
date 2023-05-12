@@ -29,6 +29,19 @@
 .main {
     padding-left: 50px;
 }
+
+.form {
+    display: grid;
+    grid-template-columns: auto;
+    grid-gap: 5px;
+    
+}
+
+.inputM {
+    height: 50px;
+    margin-bottom: 58px;
+}
+
 .ul {
     list-style-type: none;
   margin: 0;
