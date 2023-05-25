@@ -16,10 +16,26 @@
     
 }
 
+.table {
+    background-color: grey;
+    width: 318px;
+    
+    
+    
+    
+}
+th, td {
+    border-style: solid;
+    border-color: black;
 
+}
+
+.table_header {
+    width: 150px;
+}
 
 .navbar {
-    height: 45px;
+    height: 60px;
     border-width: 4px;
     background-color: rgb(42, 52, 62);
     
