@@ -52,10 +52,14 @@ th, td {
   
 }
 a {
+    text-align: center;
     display: block;
     padding: 8px;
     background-color: slategrey;
-
+    height: 25px;
+    width: 80px;
+    margin-top: 15px;
+    
 }
 
 .logo {

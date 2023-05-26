@@ -19,13 +19,14 @@
 
 
 .navbar {
-    height: 45px;
+    height: 80px;
     border-width: 4px;
     background-color: rgb(42, 52, 62);
     
     
    
 }
+
 .main {
     padding-left: 50px;
 }
@@ -49,14 +50,20 @@
   
 }
 a {
+    text-align: center;
     display: block;
     padding: 8px;
     background-color: slategrey;
+    height: 25px;
+    width: 80px;
+    margin-top: 15px;
+    
 }
 
 .logo {
-    width: 135px;
-    height: 40;
+   
+    height: 70px;
+    width: 240px;
     padding-right: 10px;
     float: left;
 }
