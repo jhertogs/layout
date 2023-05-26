@@ -35,7 +35,7 @@ th, td {
 }
 
 .navbar {
-    height: 60px;
+    height: 80px;
     border-width: 4px;
     background-color: rgb(42, 52, 62);
     
@@ -55,11 +55,13 @@ a {
     display: block;
     padding: 8px;
     background-color: slategrey;
+
 }
 
 .logo {
-    width: 135px;
-    height: 40;
+   
+    height: 70px;
+    width: 240px;
     padding-right: 10px;
     float: left;
 }
@@ -67,8 +69,8 @@ a {
 li {
     float: left;
     padding-right: 5px;
-    padding-top: 5px;
-}
+    padding-top: 5px;}
+    
 .container {
     display: grid;
     grid-template-columns: auto auto;
