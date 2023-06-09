@@ -16,6 +16,17 @@
     
 }
 
+.imagegrid {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 4px;
+}
+
+.column1 {
+    flex: 50%;
+    
+    padding: 4px;
+}
 
 
 .navbar {
@@ -28,6 +39,10 @@
 }
 .main {
     padding-left: 50px;
+
+}
+.gallerij {
+    text-align: center;
 }
 .ul {
     list-style-type: none;
